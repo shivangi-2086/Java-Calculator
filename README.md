@@ -8,10 +8,10 @@ It performs basic arithmetic operations using a switch-case statement.
 - Subtraction
 - Multiplication
 - Division
-- Uses user input for selecting the operator
+- Uses user input for selecting the operator and numbers
 
 ## How it works
-- Two numbers (`a = 10` and `b = 5`) are predefined in the program
+- Two numbers are taken as input in the program
 - The user enters an operator (`+`, `-`, `*`, `/`)
 - Based on the operator, the corresponding operation is performed
 
@@ -27,6 +27,4 @@ Addition: 15.0
 
 
 ## Future Improvements
-- Take numbers as input from the user
-- Add error handling for division by zero
 - Convert it into a menu-driven calculator
